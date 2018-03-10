@@ -20,6 +20,6 @@ class Simulator:
         call(["/home/reu_student_1/PycharmProjects/me599_homework_2/simulator-linux","-1"])
 
             #get output
-        
+
 
 
